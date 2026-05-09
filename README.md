@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Guilherme! 👋
 
-<!--
-**guilhermenot2328/guilhermenot2328** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Computer Science student at FIAP** (Faculdade de Informática e Administração Paulista) based in Brazil. I focus on developing efficient software solutions and exploring the world of Data Science.
 
-Here are some ideas to get you started:
+### 💻 Professional Interests
+*   **Software Development:** Building structured and scalable applications.
+*   **Data Science & Algorithms:** Solving complex problems using Python and logic.
+*   **Back-end:** Focus on performance and clean code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+*   **Languages:** Python, C, C#.
+*   **Data Science:** Pandas, Scikit-Learn, NumPy.
+*   **Tools:** Git, GitHub, Google Colab.
+
+### 🎓 Education
+*   **B.S. in Computer Science** - FIAP (In Progress)
+
+---
+
+### 📫 How to reach me:
+*   **LinkedIn:** ...
+*   **Email:** guilhermenot2328@gmail.com

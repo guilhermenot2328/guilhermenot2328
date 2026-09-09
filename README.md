@@ -8,7 +8,7 @@ I am a **Computer Science student at FIAP** (Faculdade de Informática e Adminis
 *   **Back-end:** Focus on performance and clean code.
 
 ### 🛠️ Tech Stack
-*   **Languages:** Python, C, C#.
+*   **Languages:** Python, C, C++.
 *   **Data Science:** Pandas, Scikit-Learn, NumPy.
 *   **Tools:** Git, GitHub, Google Colab.
 

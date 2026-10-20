@@ -8,8 +8,9 @@ I am a **Computer Science student at FIAP** (Faculdade de Informática e Adminis
 *   **Back-end:** Focus on performance and clean code.
 
 ### 🛠️ Tech Stack
-*   **Languages:** Python, C, C++.
+*   **Languages:** Python.
 *   **Data Science:** Pandas, Scikit-Learn, NumPy.
+*   **Deep Neural Network:** PyTorch.
 *   **Tools:** Git, GitHub, Google Colab.
 
 ### 🎓 Education
@@ -18,5 +19,5 @@ I am a **Computer Science student at FIAP** (Faculdade de Informática e Adminis
 ---
 
 ### 📫 How to reach me:
-*   **LinkedIn:** ...
+*   **LinkedIn:** linkedin.com/in/guilherme-nunes-98a5b7420
 *   **Email:** guilhermenot2328@gmail.com
